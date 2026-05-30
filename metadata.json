@@ -1,0 +1,8 @@
+{
+  "name": "RBB Auto Electrical and Motor Rewinding Center",
+  "description": "Premium repair and rewinding of alternator, starter, generator, AC/DC motors, and power tools in Parañaque and Pasig.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
